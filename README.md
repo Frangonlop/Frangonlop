@@ -1,3 +1,4 @@
+<p> Contador de visitas<img src="https://counter10.optistats.ovh/private/contadorvisitasgratis.php?c=kx7g8xdtlyk6p3869a2tpzbng22hdq2y" border="0" title="contador de visitas blogger" alt="contador de visitas"></p>
 - 👋 Hi, I’m @Frangonlop
 - 👀 I’m interested in web development and learning new technologies.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript to build interactive websites.
